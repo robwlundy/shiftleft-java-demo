@@ -8,7 +8,7 @@ build_rules:
     type:
       - XSS
     threshold: 8
-  - id: reachable-oss-vuln
+  - id: reachable-oss-rule
     finding_types: [oss_vuln]
     options:
       reachable: true
