@@ -12,4 +12,4 @@ build_rules:
     finding_types: [oss_vuln]
     options:
       reachable: true
-      num_findings: 25
+      num_findings: 5
